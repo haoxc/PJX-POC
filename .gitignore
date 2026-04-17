@@ -1,0 +1,21 @@
+.DS_Store
+**/.DS_Store
+
+# Obsidian local/runtime state
+.obsidian/
+.trash/
+
+# Local Obsidian libraries
+99-设置/exclidraw-libs/
+
+# Common build/dependency outputs
+node_modules/
+dist/
+build/
+.next/
+.vercel/
+
+# Local environment
+.env
+.env.*
+!.env.example
