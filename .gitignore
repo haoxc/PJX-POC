@@ -4,13 +4,15 @@
 # Obsidian local/runtime state
 .obsidian/
 .trash/
-
+AGENTS.md
+.agents/
 # Local Obsidian libraries
 99-设置/exclidraw-libs/
 
 # Common build/dependency outputs
 node_modules/
 dist/
+90-新项目脚手架/
 build/
 .next/
 .vercel/

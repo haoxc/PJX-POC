@@ -2,10 +2,12 @@
 type: execution-plan
 title: POC可行计划
 aliases:
-  - 周一POC计划
-  - 整体场景POC执行计划
+  - PLAN-V001-POC可行计划
+  - POC可行计划
+  - 新奇/计划/POC可行计划/V001
 status: draft
 created: 2026-04-17
+version: V001
 stage: poc-delivery
 deadline: 2026-04-20
 related:
