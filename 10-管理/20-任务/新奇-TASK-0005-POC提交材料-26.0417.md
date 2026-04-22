@@ -2,7 +2,7 @@
 type: task-brief
 title: 新奇 TASK-0005 POC提交材料
 aliases:
-  - TASK-0005
+  - 新奇-TASK-0005
   - POC提交材料任务书
 status: open
 created: 2026-04-17
